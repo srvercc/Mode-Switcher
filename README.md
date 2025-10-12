@@ -7,5 +7,5 @@ Use Command + Shift + 0 to toggle between modes.
 # Upcoming Features
 
 - Multi-display support
-- Configurable keyboard shortcut
+- ~Configurable keyboard shortcut~ ✅
 - More options coming in future releases
