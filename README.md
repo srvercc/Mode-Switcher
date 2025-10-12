@@ -10,7 +10,8 @@ Cheers.
 
 # Upcoming Features
 
-- Signing the Application 
+- Signing the Application
+- Adding support for auto start in the menu
 - Multi-display support
 - ~Configurable keyboard shortcut~ ✅
 - More options coming in future releases
