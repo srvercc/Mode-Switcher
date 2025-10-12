@@ -6,6 +6,7 @@ Use Command + Shift + 0 to toggle between modes.
 
 # Upcoming Features
 
+- Signing the Application 
 - Multi-display support
 - ~Configurable keyboard shortcut~ ✅
 - More options coming in future releases
