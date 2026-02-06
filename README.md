@@ -14,7 +14,6 @@ Cheers.
 - Adding support for auto start in the menu
 - Multi-display support
 - ~Configurable keyboard shortcut~ ✅
-- More options coming in future releases
 
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
